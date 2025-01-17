@@ -1,0 +1,17 @@
+body {
+    background-color: darkgrey;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+div.list-container {
+    text-align: center;
+}
+
+.list-item {
+    display: inline-block;
+    text-align: left;
+}
